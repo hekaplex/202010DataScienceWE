@@ -1,0 +1,1 @@
+My personal goals for the capstone is to utilize new approaches I've learned to create impactful insights. 
