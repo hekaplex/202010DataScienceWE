@@ -1,0 +1,1 @@
+My goals for the capston are to be able to complete a machine learning/data science project from start to finish.
