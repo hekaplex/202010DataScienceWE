@@ -10,8 +10,8 @@ My initial thoughts for the flow would be:
 
 -ETL dataset
 -Benchmark classifier via Azure ML
--PowerApp for employee engagement and interaction, but also generating additional variables through user-inputs
--Power Automate that connects with PowerApp to input variables to be used for future model tuning, could possibly send alerts to HR or team leads for whatever reason
+-PowerApp for employee engagement and interaction, but also generates additional user-input variables for future model tuning and KPIs
+-Power Automate to bridge any gaps or processes that could be automated, maybe send alerts to HR or team leads for whatever reason
 -Dashboard for HR teams
 
 # I'm more focused on synching the platforms than build-outs. Essentially, future use case would be to take additional variables to build a more robust model for 'fit'
