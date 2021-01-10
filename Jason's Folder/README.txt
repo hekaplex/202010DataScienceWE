@@ -14,5 +14,5 @@ My initial thoughts for the flow would be:
 -Power Automate to bridge any gaps or processes that could be automated, maybe send alerts to HR or team leads for whatever reason
 -Dashboard for HR teams
 
-# I'm more focused on synching the platforms than build-outs. Essentially, future use case would be to take additional variables to build a more robust model for 'fit'
+# I'm more focused on synching the platforms than build-outs. Essentially, future use case would be to build a more robust model for 'fit'
 using self-identified employee inputs, process automation for talent acquisitions, and automated dashboards for business leaders to gauge their teams.
