@@ -5,5 +5,5 @@ Greg - https://apps.powerapps.com/play/5c6506c4-da9c-4625-8666-5f06324fbb01?tena
 JAPEQ - https://apps.powerapps.com/play/b061ebf9-2151-4ebb-ba77-cbecb633baf0?tenantId=674d3e6c-45f7-42e9-938c-fcd01e3ff57c
 Jason T - https://apps.powerapps.com/play/cae9dc14-94a7-4f78-90f1-5ba8ea896d7f?tenantId=674d3e6c-45f7-42e9-938c-fcd01e3ff57c
 Rom K -  https://apps.powerapps.com/play/a4ecc09c-8275-498d-aa00-2fda4ac69cb7?tenantId=674d3e6c-45f7-42e9-938c-fcd01e3ff57c
-
+Loic - https://apps.powerapps.com/play/084b49cd-4949-4f91-b26c-de2597b84a2d?tenantId=674d3e6c-45f7-42e9-938c-fcd01e3ff57c&source=portal&screenColor=rgba(0%2C%20176%2C%20240%2C%201)
 
