@@ -14,4 +14,5 @@ fadahunsi365
 wbadley
 loicanagho01
 vaniay
-Jason
+Jason: 585f4b70-2976-48df-93ce-c4af2d163ba4, SP500 Text Classification. Solid stats refresher. Went over AzureML interface which was nice. Similar to what Greg mentioned, as well
+as discovered in class, AzureML is nice to have given low code/no code but slow to run. Excited to see it all connecting though.
