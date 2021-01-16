@@ -4,7 +4,12 @@ ARCATM (Matt) here.
 josueamezquita
 JAPEQ
 rombkhat
-gatorboy609
+
+gatorboy609 - Run ID f4047f1b-6471-40c6-93e3-abd5d9a65984
+Today one of my main takeaways was the different types of learning. I had already been familiar with supervised and unsupervised. 
+Batched learning, online learning, offline learning, etc. were all new to me. I also got some familiarity with Azure ML, at first
+glance it seems very slow, but it looks like it would be great for collaboration. 
+
 fadahunsi365
 wbadley
 loicanagho01
