@@ -2,7 +2,7 @@ archaeus-f4047f1b-6471-40c6-93e3-abd5d9a65984
 divergencedrew
 ARCATM (Matt) here. 
 josueamezquita
-JAPEQ
+JAPEQ - 4d47a12f-6cbc-439b-856c-7228c778c834
 rombkhat
 
 gatorboy609 - Run ID fb9cf56f-54ca-416d-89f5-e1e038c1b0a7
@@ -11,4 +11,5 @@ fadahunsi365
 wbadley
 loicanagho01
 vaniay
-Jason
+Jason: 585f4b70-2976-48df-93ce-c4af2d163ba4, SP500 Text Classification. Solid stats refresher. Went over AzureML interface which was nice. Similar to what Greg mentioned, as well
+as discovered in class, AzureML is nice to have given low code/no code but slow to run. Excited to see it all connecting though.
