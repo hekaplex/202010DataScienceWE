@@ -8,4 +8,4 @@ The thing I want to learn most this weekend is basically what we need to learn i
 
 3. What I hope to do for capstone prep this weekend
 For my capstone prep, I hope to get started on piping my social media analysis from R over to Python. I'm not too familiar with 
-webcrawling and sentiment analysis on Python so I will have to do a little bit of research. 
+webscraping and sentiment analysis on Python so I will have to do a little bit of research. 
