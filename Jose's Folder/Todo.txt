@@ -1,5 +1,0 @@
-1. I learned that accuracy is not always the best indicator of performance for a model. Also Azure ML was new to me and it was nice to see things like that exist.
-
-2. It was nice to have all the model algorithms automated in Azure, but it would be cool to build one or some in Python. 
-
-3.For capstone prep, the plan is to transfer code from R to Python. Since the majority of packages used dont exist in Python, we will have to find alternatives to making the code work. 
