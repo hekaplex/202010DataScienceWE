@@ -1,0 +1,2 @@
+I was sick last weekend, so I am reviewing the recordings and I will get back to you on what I learned.
+I would like to learn how to a logistic regression model in Python
