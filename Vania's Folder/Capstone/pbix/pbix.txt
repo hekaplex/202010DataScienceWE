@@ -1,0 +1,1 @@
+I plan to use power Bi to model the data after I have created the relation ships in SQL.
