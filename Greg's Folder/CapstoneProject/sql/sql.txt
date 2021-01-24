@@ -1,0 +1,1 @@
+This directory will contain any of your SQL scripts that you will create during the project
