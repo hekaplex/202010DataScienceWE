@@ -1,0 +1,4 @@
+This directory will include any documentation on your Power BI
+
+You can create a *.pq file for each Power Query  M code that create as a source query
+You can also create a *.dax for any column, measure, and table definitions 
